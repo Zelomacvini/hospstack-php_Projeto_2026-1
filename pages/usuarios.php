@@ -90,7 +90,7 @@ $usuarios = $pdo->query("SELECT id, nome, email, nivel_acesso FROM usuarios ORDE
     <div class="container-fluid">
         <div class="row">
             <nav class="col-md-3 col-lg-2 d-md-block sidebar collapse p-3">
-                <h4 class="text-center mb-4">HospStock</h4>
+                <h4 class="text-center mb-4">HospStack</h4>
                 <ul class="nav flex-column">
                     <li class="nav-item">
                         <a class="nav-link mb-2 rounded" href="dashboard.php"><i class="bi bi-speedometer2 me-2"></i>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HospStock - Controle de Estoque Hospitalar</title>
+    <title>HospStack - Controle de Estoque Hospitalar</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
     <style>
@@ -27,7 +27,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm py-3">
         <div class="container">
             <a class="navbar-brand fw-bold text-primary" href="#">
-                <i class="bi bi-hospital me-2"></i>HospStock
+                <i class="bi bi-hospital me-2"></i>HospStack
             </a>
             <div class="d-flex">
                 <a href="login.php" class="btn btn-outline-primary me-2">Entrar</a>
@@ -85,7 +85,7 @@
 
     <footer class="bg-dark text-white text-center py-4 mt-auto">
         <div class="container">
-            <p class="mb-1">&copy; <?php echo date('Y'); ?> HospStock - Projeto Acadêmico.</p>
+            <p class="mb-1">&copy; <?php echo date('Y'); ?> HospStack - Projeto Acadêmico.</p>
             <p class="text-muted small mb-0">Desenvolvido por: [Nome dos Alunos do Grupo]</p>
         </div>
     </footer>

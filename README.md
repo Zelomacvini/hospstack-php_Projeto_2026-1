@@ -1,4 +1,4 @@
-# HospStock - Gestão de Estoque Hospitalar 🏥
+# HospStack - Gestão de Estoque Hospitalar 🏥
 
 Sistema desenvolvido para controle de insumos, medicamentos e materiais hospitalares. Projeto focado em usabilidade e segurança para ambientes de saúde.
 
